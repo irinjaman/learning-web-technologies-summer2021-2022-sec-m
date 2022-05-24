@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+table,th,td{
+boeder:1px solid black;
+}
+</style>
+</head>
+
+<h1>student info </h1>
+
+<table>
+
+<tr>
+<th>Name</th>
+<th>id</th>
+
+</tr>
